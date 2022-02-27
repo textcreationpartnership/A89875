@@ -1,0 +1,493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A check to the checker of Britannicus: or, The honour and integrity of Collonel Fiennes, revived, re-estated, and cleared from certain prejudices and mistakes, occasioned by late mis-reports. The proceedings of the honourable Councell of War, according to the article of war justified. The pardon of his Excellencie the Lord Generall Essex asserted, and the grounds of it declared, and presented to the consideration of all. With certain considerable queries of publike concernement. Britannicus for his eminent service to this cause, Parliament, and kingdome, encouraged and vindicated from a late aspertion, in this occasion by a grose, seditious, and abusive pamphlet, called, a check.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89875</idno>
+            <idno type="STC">Wing N382</idno>
+            <idno type="STC">Thomason E34_18</idno>
+            <idno type="STC">ESTC R22954</idno>
+            <idno type="EEBO-CITATION">99871872</idno>
+            <idno type="PROQUEST">99871872</idno>
+            <idno type="VID">154611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154611)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E34[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A check to the checker of Britannicus: or, The honour and integrity of Collonel Fiennes, revived, re-estated, and cleared from certain prejudices and mistakes, occasioned by late mis-reports. The proceedings of the honourable Councell of War, according to the article of war justified. The pardon of his Excellencie the Lord Generall Essex asserted, and the grounds of it declared, and presented to the consideration of all. With certain considerable queries of publike concernement. Britannicus for his eminent service to this cause, Parliament, and kingdome, encouraged and vindicated from a late aspertion, in this occasion by a grose, seditious, and abusive pamphlet, called, a check.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>[36] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In answer to William Prynne's A checke to Britannicus.</note>
+                  <note>Attributed to Marchamont Nedham.  Cf. Thomason Coll.</note>
+                  <note>Annotation on Thomason copy: The 4 in the imprint date is crossed out and altered to 1643; "Feb: 29: 1643.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Checke to Britannicus.</term>
+               <term>Fiennes, Nathaniel, 1607 or 8-1669.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154611:1" rendition="simple:additions"/>
+            <p>A CHECK <hi>To the Checker of</hi> BRITANNICUS: OR, The Honour and integrity of Collonel Fiennes, Revived, re-eſtated, and cleared from certain prejudices and miſtakes, occaſioned by late miſ-reports.</p>
+            <p>The proceedings of the honourable Councell of War, according to the Article of War juſtified.</p>
+            <p>The pardon of his Excellencie the Lord Generall <hi>Eſſex</hi> aſſerted, and the grounds of it declared, and preſented to the conſideration of all.</p>
+            <p>With certain conſiderable Queries of publike concerne<g ref="char:EOLhyphen"/>ment. <hi>BRITANNICVS</hi> for his eminent ſervice to this Cauſe, Parliament, and Kingdome, encouraged and vindicated from a late aſpertion, in this occaſion by a groſe, ſeditious, and malignant abuſive Pamph<g ref="char:EOLhyphen"/>let, called, <hi>A Check.</hi>
+            </p>
+            <p>
+               <hi>London, Printed by Andrew Coe,</hi> 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154611:2"/>
+            <pb facs="tcp:154611:2"/>
+            <head>To all the well affected party in the Kingdome.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ather then a Gentleman ſhould by his owne patience and mo<g ref="char:EOLhyphen"/>deſty, ſuffer his bloud to bee thus hunted to the laſt drop (though for my own part I ne<g ref="char:EOLhyphen"/>ver ſaw his face) yet having ſeen the tranſactions and proſecutions of his buſi<g ref="char:EOLhyphen"/>neſſe, I ſhall write, not to contradict, provoke, contend with, or exaſperate the pen of any, But to ſtate the condition of a ſentence and crime, in this coniuncture of time, when wee have ſo many: and to publiſh the excellent iuſtice of that honourable Court of War in its commen<g ref="char:EOLhyphen"/>ſurate proceedings, according to the very letter and article of war, and the candid power of the Generall, and Supream of that Councell in re<g ref="char:EOLhyphen"/>mitting the ſentence upon iuſt and honourable grounds, as appears to him, and appears to me,
+<pb facs="tcp:154611:3"/>
+but am ſorry the deſigne of Malignants ſhould ſo ſecretly and cunningly, winde about the iudgment of ſome good men amongſt us, un<g ref="char:EOLhyphen"/>diſcerned, and unobſerved of them, under the pretences of publicke ſervice, reioycing in the dark, that they can put on our own party to proſecute one another, triumphing to them<g ref="char:EOLhyphen"/>ſelves that they can make us lop off our owne branches, and act that upon our ſelves in their behalf, which they themſelves cannot do upon us; But I here publiſh to the World, this is the grand artifice, and deſigne of the enemy abroad &amp; now at this time, in this Kingdom, working in ſecret to make us the ſad and fatall inſtru<g ref="char:EOLhyphen"/>ments of undoing and deſtroying one another, and daſhing our ſelves againſt our ſelves. But I hope wee ſhall diſcern and embrace one an<g ref="char:EOLhyphen"/>other to the deſtruction of their Stratagem: <hi>Let us put on therefore as the elect of God, bowels of mercies<g ref="char:punc">▪</g> kindneſſe, forbearing one another, and forgiving one another, and above all, put on charity which is the bond of perfectnes.</hi> Col. 3. 12, 13, 14.</p>
+         </div>
+         <div type="Scriptural_citations">
+            <pb facs="tcp:154611:3"/>
+            <q>
+               <bibl>EPHES. 4. 31, 32.</bibl>
+               <p>Let all bitterneſſe, and wrath, and anger, and clamour, and evill ſpeaking, be put away from you, withall malice.</p>
+               <p>And be you kinde one to another, tender hearted, forgiving one another, as God for Chriſts ſake hath forgiven you<g ref="char:punc">▪</g>
+               </p>
+            </q>
+            <q>
+               <bibl>IONAH 3. 10. 4. 1.</bibl>
+               <p>——And God repented of the evill, that he ſaid hee would doe unto them, and he did it not.</p>
+               <p>But it diſpleaſed Ionah exceedingly, and he was very angry.</p>
+            </q>
+            <q>
+               <bibl>ZACHARIAH 1. 15.</bibl>
+               <p>——<hi>For I was but a little diſpleaſed, and they helped forward the affliction.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>MATTHEW 18. 32, 33.</bibl>
+               <p>——I forgave thee all that debt, becauſe thou deſireſt me.</p>
+               <p>Shouldſt thou not alſo have had compaſsion on thy fellow ſer<g ref="char:EOLhyphen"/>vant, as I had pitty on thee.</p>
+            </q>
+            <q>
+               <bibl>MATTHEW 6. 15.</bibl>
+               <p>But if yee forgive not men their treſpaſſes, neither will your Father forgive your treſpaſſes.</p>
+            </q>
+         </div>
+         <div type="list_of_witnesses">
+            <pb facs="tcp:154611:4"/>
+            <head>The names of thoſe Gentlemen and Perſons of Honour and quality, who were witneſ<g ref="char:EOLhyphen"/>ſes in the tranſactions of the late triall, and atteſted to their own particular truths.</head>
+            <list>
+               <item>
+                  <hi>Sir</hi> Will. Balfoore,</item>
+               <item>
+                  <hi>Lieutenant Col:</hi> Cliffton,</item>
+               <item>
+                  <hi>Captain</hi> Rawlins,</item>
+               <item>
+                  <hi>Mr.</hi> Antho. Nicholes.</item>
+               <item>
+                  <hi>Mr.</hi> John Aſh,</item>
+               <item>
+                  <hi>Sir</hi> Wil. Waller, letter</item>
+               <item>
+                  <hi>Sir</hi> Arthur Hazleriggs letter</item>
+               <item>
+                  <hi>Major</hi> Homes,</item>
+               <item>
+                  <hi>Cap: Lieutenant</hi> Nevell,</item>
+               <item>
+                  <hi>Cornet</hi> Hooker,</item>
+               <item>
+                  <hi>Sir</hi> John Horner,</item>
+               <item>
+                  <hi>Captain</hi> Tyſon,</item>
+               <item>
+                  <hi>Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or</hi> Archibald,</item>
+               <item>
+                  <hi>Cap<g ref="char:punc">▪</g>
+                  </hi> Sampſon,</item>
+               <item>
+                  <hi>Cap.</hi> Taylor,</item>
+               <item>
+                  <hi>Lieutenant Col.</hi> Birch,</item>
+               <item>
+                  <hi>Cornet</hi> Langriſhe.</item>
+               <item>
+                  <hi>Mr.</hi> Hodges,</item>
+               <item>
+                  <hi>Mr.</hi> Powel,</item>
+               <item>
+                  <hi>Col:</hi> John Fines.</item>
+               <item>
+                  <hi>Captain</hi> Husbands,</item>
+               <item>
+                  <hi>Mr.</hi> Sam. Love,</item>
+               <item>John Tomes,</item>
+               <item>
+                  <hi>With divers others and ſome of the Proſecutors witneſſes croſſe examined.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Strood,</item>
+               <item>
+                  <hi>Cap.</hi> Vaughan,</item>
+               <item>
+                  <hi>Mr.</hi> Priskman.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154611:4"/>
+            <head>A Check to the Checker of Britannicus: <hi>OR</hi> The juſt Vindication, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a rule in the beſt of Sciences, That wee had not known ſin but by the Law, and it will hold good in ſubordinate offences, and Civil Judicatories, where there is not ſometimes a poſitive guilt, but an enormity, or negative guilt, a want of due proportion, and Commenſuration to the letter of the Law; ſuch is the conſtitution of this crime, which is rather a crime a<g ref="char:EOLhyphen"/>gainſt the Prerogative or Supremacie, or Apicem of a Law, than any diſproportion or obliquity to the reaſon or equity of the Law, and may more naturally be tearmed a providentiall misfortune, an unſucceſſefull Councell, ſo as we had not taken it under any other notion, had not a Law told us it was a ſin, a military tranſgreſſion, there<g ref="char:EOLhyphen"/>fore we muſt needs diſtinguiſh here, and ſtate the offence, for it is one thing to tranſgreſſe morally, another thing to tranſgreſſe martially; it is one thing to offend by in<g ref="char:EOLhyphen"/>duſtry, by deſigne, by treachery, another thing to offend providentially, unfortunately, almoſt inevitably, and certainly had there beene any ſuch poſitive guilt in this
+<pb facs="tcp:154611:5"/>
+noble Perſonage, hee would not ſo faſt have proſecuted his own Judgement, but this is the excellent and impar<g ref="char:EOLhyphen"/>tiall Policy of Martiall Juſtice, that it reaches <hi>adminima,</hi> to the leaſt errours; to the Atomes of all proceedings and actious; which is an exception from the com<g ref="char:EOLhyphen"/>mon Maxime in all Laws but it ſelfe, and it is not more honourable, than ſafe, that even miſtakes; and circum<g ref="char:EOLhyphen"/>ſtances ſhould be made Capitall, becauſe ſuch a weight of Concernments turn often upon theſe Poles.</p>
+            <p>Therefore I ſhall only adviſe, that wee argue him into no deeper a guilt than the Law hath done, and that wee meaſure our own Judgments by that very Article which pronounced his, and I ſhall deſire only this, that all that read me, will as ſeriouſly and impartially conſider the grounds and reaſons of my reſult, as I write both them and it. I am far from writing an Apology for a Delin<g ref="char:EOLhyphen"/>quent, and as far from writing a Delinquencie on the re<g ref="char:EOLhyphen"/>putation of a Juſt perſon. I endeavour only at the right ſtating of a crime, and the right ſtating of the Juſtice done upon that crime, under a cleer notion to others, as well as my ſelfe, and though I ſhall be as early as the firſt at proſecuting a tranſgreſſion againſt the publicke, yet I would be the laſt at proſecuting a tranſgreſſion be<g ref="char:EOLhyphen"/>yond the publick, or beyond it ſelf, and I hope we have ſo much Candour and Ingenuity on this ſide of Oxford, as to make a difference of ſuch as ſeek firſt to us for juſtice upon themſelves, and thoſe upon whom wee ourſelves ſeek firſt for Juſtice, of thoſe that offend againſt the letter, and thoſe that offend againſt the equity of the Law, of thoſe that erre by misfortune, of thoſe that erre by deſigne, againſt thoſe that make their fault greater, by ſtriving to commit the leſſe, and ſo go wrong in a miſt of a Providentiall, and inevitable
+<pb facs="tcp:154611:5"/>
+exigency, or extremity, and for ſuch kinde of errours, which fell on the outſide of the Deſigne or Intention, the old Law had provided an Expiatory, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> City of Refuge, and though the Cities be ruined and gone, yet the Ju<g ref="char:EOLhyphen"/>diciall and Morall foundation ſtands firme, and we have ſtill a ſuperſtructure, Pardons of Courſe and Reprieves; and they that undermine theſe, offend againſt the grand Charter of the Cities of Refuge, againſt the glory of Authority, and commit an offence on the otherſide of the Law, even againſt mercy; &amp; the beſt kinde of Prero<g ref="char:EOLhyphen"/>gative: and it is a kinde of putting Juſtice out of joynt, a ſpraining it by an over-reach; and believe it Mercy in ſome Caſes is the beſt execution of Juſtice; and one at<g ref="char:EOLhyphen"/>tribute may thus be made to expound another: and thus the equity proves ſometimes to be better Law, than the Letter; and the Civilian and Canoniſt avow the excel<g ref="char:EOLhyphen"/>lency of Juſtice to be ſeated <hi>Candidiore &amp; benigniore legis interpretatione<g ref="char:punc">▪</g>
+               </hi> and if this were not, the Picture of Ju<g ref="char:EOLhyphen"/>ſtice would want the beſt part of her Embleme, and wee ſhould ſee her only with her Sword, but without her Scales; and this is that which is our beſt Argument now in our late proceedings<g ref="char:punc">▪</g> and we part the Law thus with our Adverſaries; they take the Letter, and we the Equi<g ref="char:EOLhyphen"/>ty and f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irer ſide of it, and even in the beſt examples, where Juſtice is in her pureſt Hieroglyphick; wee ſhall finde this indulgency and diſpenſation, and <hi>benignior interpretatio<g ref="char:punc">▪</g>
+               </hi> as in <hi>Iona hans</hi> Caſe, who was condemned by the Martiall Law of <hi>Saul,</hi> for a crime at the tip of his rod, and yet of publike prejudice too; but the people, in ſenſe of former ſervices and publicke acts, reſcue him, and cry out; Shall <hi>Ionathan</hi> die? and on the like ground, the people got a Reprieve for the Centurions ſon, plead<g ref="char:EOLhyphen"/>ing to Chriſt that he was worthy, for whom hee ſhould
+<pb facs="tcp:154611:6"/>
+do this, <hi>For he hath loved their Nation;</hi> nor is it an act unſutable to our thoughts at this time, The Angel ſtay<g ref="char:EOLhyphen"/>ing the ſword of <hi>Abraham,</hi> from execution, becauſe there was an <hi>Iſaac</hi> lay in the danger of the ſtroak.</p>
+            <p>But I now arrive at thoſe Arguments and Particulars, which perſwaded mee, and in my proſpect ſeated his re<g ref="char:EOLhyphen"/>putation and integrity as cleer now; as before.</p>
+            <div n="1" type="argument">
+               <head>Argument I.</head>
+               <p>WHereas it hath ever beene the deſigne of Delin<g ref="char:EOLhyphen"/>quency to walk out of the way of tryall and ex<g ref="char:EOLhyphen"/>amination, &amp; to make eſcapes, and ſeek ſubterfuges rather than appeals and provocations; This Perſon ſought out his Adverſaries, ſought for a Tribunal, for Juſtice; and eſpecially that which had the ſharpeſt edge and heavieſt ſtroak; who would not think it unreaſonable that any man of prudence ſhould take ſo much paines to con<g ref="char:EOLhyphen"/>demne himſelf, and to court an arraignment of his crime? Sure here was innocency in the <hi>Hyperbole,</hi> for I preſume a guiltineſſe durſt not adventure to this height and pro<g ref="char:EOLhyphen"/>vocation of Juſtice; nay ſometimes it is the Caſe of In<g ref="char:EOLhyphen"/>nocency it ſelf; and Integrity to be involved by ſome misfortune or deſigne into the Labyrinths of ſome ſeem<g ref="char:EOLhyphen"/>ing Crimes, and it is even affraid of Appeals and Tri<g ref="char:EOLhyphen"/>bunals, loſt Juſtice ſee not ſo cleerly through Informa<g ref="char:EOLhyphen"/>tions and teſtimonies, as it ſees it ſelfe; and therefore when I conſider the Appeal of this Gentleman, I cannot but raiſe an Argument of eminent Integrity, which was it ſeems ſo diſingaged and abſolute; as carried him into theſe open perſecutions of himſelf, when he might have withdrawne and ſat ſecure from Cenſure; and when the cloud had been over, appeared as ſerene in his reputation again as before.</p>
+            </div>
+            <div n="2" type="argument">
+               <pb facs="tcp:154611:6"/>
+               <head>Argument II.</head>
+               <p>THe ſecond Argument which moves and perſwades me is the care, courage and, faithfulneſſe which this Colonell expreſſed in his firſt going to <hi>Briſtoll,</hi> by an or<g ref="char:EOLhyphen"/>der from his <hi>Excellencie,</hi> where, by the providence of God having diſcovered a Deſigne compounded of trea<g ref="char:EOLhyphen"/>chery within, and forces without; hee defeated and diſ<g ref="char:EOLhyphen"/>appointed. The Conſpiracy, and the ſucceſſe of this was ſealed to him by a Letter of publick Thanks from both Houſes of Parliament; and his Integrity was ſigned with this honorable Teſtimony: and to this I muſt adde his unceſſant care and paines in fortifying and ſtrengthe<g ref="char:EOLhyphen"/>ning it with all things neceſſary for a ſiege, or enemy.</p>
+            </div>
+            <div n="3" type="argument">
+               <head>Argument III.</head>
+               <p>I Am further aſſured from ſuch his conſtant care, &amp; vi<g ref="char:EOLhyphen"/>gilancy to the field and outſide of it being always pro<g ref="char:EOLhyphen"/>vident to prevent da<g ref="char:cmbAbbrStroke">̄</g>gers afar off, by cleering the coaſts &amp; parts about; contributing not a little to the taking of Ma<g ref="char:EOLhyphen"/>lignant Inſurrections in the very bud at ſeverall times &amp; in ſeveral places of <hi>Wiltſhire, Somerſetſhire, Dorſetſhire,</hi> with the Iſle of <hi>Portland;</hi> with the relief of <hi>Gloceſter</hi> too, at his firſt comming to <hi>Briſtoll,</hi> and to all theſe his furniſhing Sir <hi>Wil. Waller</hi> from time to time with large ſupplies of men, moneys, and Ammunition, having recruted him with above two thouſand foot, foure hundred horſe, eight thouſand pound in money; and about a hundred barrels of powder, with bullet and match proportiona<g ref="char:EOLhyphen"/>ble; and to all this I muſt adde his reſolutions at that extreme exigencie, when God was pleaſed to give the forces of that Noble Commander Sir <hi>Wil. Waller</hi> up to
+<pb facs="tcp:154611:7"/>
+a diſcomfiture; which expoſed <hi>Briſtoll</hi> at that very time to ſo much danger, and ſuch an unavoidable hazard; that the Gentlemen themſelves which had loſt the field, gave in <hi>Bristoll</hi> to the ſad Catalogue of being loſt too, and thought it not tenible after ſuch a ſinew was cut, and theſe were men of ſo much judgment, honour, and un<g ref="char:EOLhyphen"/>derſtanding, the very naming them is enough with mee: Sir <hi>William Waller,</hi> and Sir <hi>Arthur Haſtelrigg</hi> in a Letter under their owne hands; yet Colonel <hi>Fiennes</hi> though thus deveſted, and deſerted, on all ſides, firſt by that un<g ref="char:EOLhyphen"/>fortunate defeat, than by a totall declining of the Coun<g ref="char:EOLhyphen"/>ties, and many of the Deputy Lievtenants, and princi<g ref="char:EOLhyphen"/>pall Gentlemen thereof gathered up his reſolutions, care<g ref="char:EOLhyphen"/>fully collected the remayning ſparks of that dying City, and of the whole Weſt, ſtriving to blow life againe into them; hazarding his own perſon day and night, and lay<g ref="char:EOLhyphen"/>ing out himſelf in places of greateſt danger, as ſome of the Gentlemen in the Catalogue have witneſſed, ingage<g ref="char:EOLhyphen"/>ing likewiſe his eſtate and credit for the taking up great ſums of money, for raiſing and arming ſouldiers; that if he had thought it poſſible, he might have preſerved that City, which was of ſo great importance to the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="4" type="argument">
+               <head>Argument IV.</head>
+               <p>THe next Argument is this, that the loſſe of this City was ſurely by a providentiall misfortune, and an in<g ref="char:EOLhyphen"/>capacitie in it ſelfe, to be defended to extremity, and ſome other unavoidable exigences: For firſt, hee could never raiſe men enough to make good the line, ſo as the ſouldiers did not ſtand within musket ſhot one from ano<g ref="char:EOLhyphen"/>ther in ſome places, and not numerous enough in any place, being ſtormed in nine places at once, and being li<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:154611:7"/>
+to be ſtormed in all places, and promiſing a fair ſuc<g ref="char:EOLhyphen"/>ceſſe to the beſiegers at every aſſault, (the workes being rather like to thoſe of a Quarter intrenched, then of a Town fortified very ſlight without any ditch at all in many places, and dry, narrow, and ſhallow, where there was any, being but ſeven or eight foot broad, and foure or five foot deep, nor could he make any reliefe or reſerve without which, according to the maximes of war, it is impoſſible to keepe any place, much leſſe ſuch a weake and indefenſible place, which indeed rather ſeemed a Landskipt of fortification than one indeed, and reall<g ref="char:punc">▪</g> and beſides the weakneſſe of the Towne, the Caſtle (which ſhould have been the only reſerve and refuge in ſuch a ſupream extremity) was ſo old and craſie, that the wals thereof were not likely as was depoſed before the Coun<g ref="char:EOLhyphen"/>ſell of Warre to endure the ſhaking of great Ordinance, and was in as much danger to the violence within as without, and ſo ſurrounded with Churches and Steeples, and Houſes; and ſo commanded from them, that no ſouldier could ſtand to his guard in any place nor doe his duty, but in continuall hazard to be rebuked to death by the enemy, nor could the Gunners ſtand to their Ord<g ref="char:EOLhyphen"/>nance, but the enemy had the command of their backs within Musket or halfe Musket ſhot; and ſo weake and untenible in many other reſpects that it could not hold out three or foure days in the judgment of any Souldier, according to the deſcription therof given into the Coun<g ref="char:EOLhyphen"/>ſell of Warre upon oath; and though it had been more tenible, yet it neither commanded the Port, nor the Key, nor the Towne, and it was ſo ſituate from the Line too, that within three or foure days it might have been ſeclu<g ref="char:EOLhyphen"/>ded from any poſſibility of Reliefe, if it had been wor<g ref="char:EOLhyphen"/>thy of a relieving, after the Town, and Shipping<g ref="char:punc">▪</g> and
+<pb facs="tcp:154611:8"/>
+trading thereof had been deſtroyed, for which only it was worth preſorving, and without which it was not ſo conſiderable, as to burne all the other to aſhes for the ſa<g ref="char:EOLhyphen"/>ving of it, or rather the reprieving it, for a few days lon<g ref="char:EOLhyphen"/>ger to the ſame deſtruction, if not from themſelves, I yet from the enemy.</p>
+            </div>
+            <div n="5" type="argument">
+               <head>Argument V.</head>
+               <p>ANother Argument with me is, the concurrence of ſome particulars in his condition in that exigency: Firſt want of men, the Garriſon being too wide for the Souldiers, and the Line too vaſt a Circumference for ſo ſmall an Infantry, not being able to endure the violent ſhakes of a numerous enemy as they were, the works ſo large, ſo weak, and ſo weakly manned, much leſſe a ſiege; as he muſt needs have done, ſuccours being ſo remote and diſtant.</p>
+               <p>Secondly, want of a place of defence in any ſort teni<g ref="char:EOLhyphen"/>ble by the Rules of War, when the principall Rampart of the Towne was entred, and the enemy lodged within it, ſeverall Regiments of Horſe and Foot.</p>
+               <p>Thirdly, want of obedience in ſome of his Officers, and a great part of his Souldiers, when the Line was en<g ref="char:EOLhyphen"/>tred, ſo that he could not beat out the Enemy againe, or make any further reſiſtance, ſome of his Officers and Souldiers refuſing his commands, and the greateſt part of his Souldiers deſerting their Colours, and divers of them running over to the Enemy; and refuſing to make any further defence.</p>
+               <p>Fourthy, deſpair of ſuccours. Sir <hi>William Wallers</hi> Ar<g ref="char:EOLhyphen"/>my being wholly ruined, and his Excellencies in ſo weak
+<pb facs="tcp:154611:8"/>
+and ſick a condition, which was known to Col. <hi>Fiennes</hi> before he entertained a parley.</p>
+            </div>
+            <div n="6" type="argument">
+               <head>Argument VI.</head>
+               <p>ANother ſtrong motive with me is his declining the government of the Towne, never undertaking to make good that place with the force hee found, or was ever able by his own endevour to raiſe in it, but on the contrary declared continually by his Letters and Meſſa<g ref="char:EOLhyphen"/>ges, that hee neither could nor would be anſwerable for it, unleſſe certaine Propoſitions might be granted him which he could never obtain, and therefore deſired ſeve<g ref="char:EOLhyphen"/>rall times to be freed from the employment, yet hee was willing rather to part with his own Judgement and de<g ref="char:EOLhyphen"/>ſires, and ſuffer them to be commanded in the ſervice by the Parliament and his Excellency, while hee continued there; and taking care that it ſhould be furniſhed, and Ammunition for a defence or ſiege, or rather that the reports of ſuch preparations might keepe the enemy from entertaining a deſigne againſt it, being it was in it ſelfe ſo indefenſible.</p>
+            </div>
+            <div n="7" type="argument">
+               <head>Argument VII.</head>
+               <p>ANother prevailing Argument with mee is the ſub<g ref="char:EOLhyphen"/>ſtance and form of the ſentence which is thus from the originall.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="text">
+                           <pb facs="tcp:154611:9"/>
+                           <head>DECEMBER 29<g ref="char:punc">▪</g> 1643. St. <hi>Albons.</hi>
+                           </head>
+                           <head type="sub">The Honorable Councell of War being ful. and the Proſecutons Mr. <hi>Prinne</hi> and Mr. <hi>Walker</hi> being preſent, the ſentence againſt Collonell <hi>Nathaniell Fiennes</hi> was pronounced by the Advocate, <hi>de ſcripta,</hi> as followeth.</head>
+                           <p>COllonel Nathaniel Fiennes, you have beene arraigned &amp; convicted before this Honorable Councel, for ſurrendring and delivering up of the Towne and Caſtle of Bri<g ref="char:EOLhyphen"/>ſtol, with the Forts, Magaſines, Armes, Ammu<g ref="char:EOLhyphen"/>nition, victuals, and other things thereunto be<g ref="char:EOLhyphen"/>longing, and for not having held the ſame to the utmoſt extremity, according as by your du<g ref="char:EOLhyphen"/>ty you ought to have done, for which offence this Honourable Councell hath adiudged you to be executed, according to the tenor of the Article of War, by having your head cut from your body.</p>
+                           <closer>Copia vera</closer>
+                           <closer>
+                              <signed>Jſaac Doriſlaus, <hi>Advocate of the Armie.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div n="7" type="argument">
+               <pb facs="tcp:154611:9"/>
+               <head>Argument VII.</head>
+               <p>IT appears by this, that the Article of Warre is the hinge upon which this ſentence only moves, here is no Concomitant expreſſion of Cowardize or Treachery, ſo as the guilt is externall, and not internall, a guilt of diſproportion and want of Commenſuration to the Article, and whereas there is this clauſe, That hee held not the ſame to the utmoſt extremity; that is according to the tenour of the Article, for extremity is here conſi<g ref="char:EOLhyphen"/>derable under a double notion; as extremity is common<g ref="char:EOLhyphen"/>ly underſtood and received: hee held it to the height of that notion, as I have cleerly remonſtranced, but as ex<g ref="char:EOLhyphen"/>tremity is received in a Martiall interpretation, relating to the very Article of War there, and only there hee is criminall, and upon this hee was condemned for not comming up to the height of that extremity<g ref="char:punc">▪</g> and though the Martiall Juſtice allows of no plea in that diſproportion, yet there is a morall equity to be conſide<g ref="char:EOLhyphen"/>red here, which qualifies his not c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mming up to the laſt extremity, and this his Excellency conſidered in his par<g ref="char:EOLhyphen"/>don: Firſt, he muſt have burned the ſecond City of the Kingdome to the ground, contrary to the conſtant pra<g ref="char:EOLhyphen"/>ctice and policy of War, to the principles and rules of the Parliaments Proteſtations and proceedings, and to all the violencies and villanies which are the ſad conſe<g ref="char:EOLhyphen"/>quences of an enraged Enemy entring ſuch a City by force, having been exaſperated before by the loſſe of a<g ref="char:EOLhyphen"/>bove a thouſand of their men, and amongſt them foure Colonels and divers of quality; beſides by ſuch an act a conſiderable body of horſe &amp; foot, muſt neceſſarily have been broken, which by terms of competition might,
+<pb facs="tcp:154611:10"/>
+and by the Articles<g ref="char:punc">▪</g> were to be preferred for the ſervice of the Parliament, in a time when we all knew they had ſo great need of men, Sir <hi>William Wallers</hi> Army being ruined, and his Excellencies very weak, and beſides all this, many of the towne, reſolving to joyne with the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nemy to prevent it, and having great opertu<g ref="char:EOLhyphen"/>nities to doe it in, in regard of the difficulties in making a retreate, ſo as thoſe thinges inpartially conſidered, though they excuſe not the Colonell <hi>a toto<g ref="char:punc">▪</g>
+                  </hi> yet a <hi>tanto,</hi> from tranſgreſſing againſt the Article of warre, yet they do take off from the malignity, and degree of the Crime<g ref="char:punc">▪</g> And it ſeems a diviner Law had the greater influence upon the Colonels ſoul at that time then the Law of war, &amp; he would not do ſo much evill, that good might come thereof; and he was loath to ſet up ſuch a fire to the King<g ref="char:EOLhyphen"/>dome, and to light up the firſt Beacon of Deſolation, and Devaſtation to the countrey, and I cannot but ſay this, we ſtand now upon more advantageous ground, and may now take a better proſpect, and have a clearer Lant<g ref="char:EOLhyphen"/>skipt of the effects and conſequences, and inconvenien<g ref="char:EOLhyphen"/>ces, then hee could have at that time; it being an eaſie thing to miſtake the paſſage of Counſels, and the faireſt landing-places of Deſignes in Exigencies, and Diſtracti<g ref="char:EOLhyphen"/>ons of that Nature; Though he did it not without ad<g ref="char:EOLhyphen"/>vice of his Counſell of warre too.</p>
+               <p>And for the Article of warre, it is the <hi>Summum Jus,</hi> and no queſtion but Lawes and Ordinances of warre have their Policy, as well as Equity, and there<g ref="char:punc">▪</g> is an in<g ref="char:EOLhyphen"/>terpretative Juſtice which they admit off, as in the caſe of the late pardon after ſentence, they are made and con<g ref="char:EOLhyphen"/>trived by that power which hath an eye to his Suprema<g ref="char:EOLhyphen"/>cie, in being able to diſpenſe, and qualifie the Juſtice of that Law which <note n="a" place="margin">Theſe are to authori<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e you to print for the uſe of the Army, the Lawes and Or<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nances of Warre, by me eſtabliſhed ESSEX, Novemb. 25. 1643.</note> he makes himſelfe, for if the Letter
+<pb facs="tcp:154611:10"/>
+did not admit of theſe ſaire and mercifull interpretations, it were a killing Letter, and we know this State hath bin long in debate concerning the giving way to the Juſtice of War, or mercifull Law, being almoſt afraid to admit of a Law, ſo ſharply pointed, but that the neceſſity (which is the ſupream Law) called for it.</p>
+            </div>
+            <div n="8" type="argument">
+               <head>Argument. VIII.</head>
+               <p>THE laſt Argument with me is, the pardon from his Excellency, which is not only an act of power, and grace, or illuſtration of the judgement, and ſentence, and an honourable ſheathing of the ſword of Juſtice, but it is rationall, and argumentative, and bottomed on cer<g ref="char:EOLhyphen"/>taine foundations, and principles, which I ſhall onely draw forth like arrowes out of their owne quiver, and give them into your hands to levell as you pleaſe.</p>
+               <div type="pardon">
+                  <head>THE PARDON.</head>
+                  <p>VVHereas Colonell Nathaniel Fiennes late Go<g ref="char:EOLhyphen"/>vernour of the City of Briſtoll hath been queſtioned before a Counſell of war held in St. Albans, from the 14. day of December till the 23. of the ſaid mo<g ref="char:EOLhyphen"/>neth, 1643. by William Pryn and Clement Walker for the ſurrendring unto the Enemy, the ſayd City and Caſtle of Briſtoll: And whereas the ſayd proſecutors themſelves during the ſaid triall, have delcared that their meaning was not that the ſaid Colonell had delivired up the ſaid City by any premeditate malice or Intelli<g ref="char:EOLhyphen"/>gence with the Enemy.</p>
+                  <p>And whereas the ſaid Colonel hath bin caſt by the ſaid Counſell of war, only according to the letter of the Ar<g ref="char:EOLhyphen"/>ticle of the Lawes, and Ordinandes of war, becauſe he the ſaid Colonell hath not held the ſaid City, and Caſtle
+<pb facs="tcp:154611:11"/>
+of Briſtoll to extremity: And whereas the ſaid Colo<g ref="char:EOLhyphen"/>nell hath been condemned by the ſaid Counſell for this offence, &amp;c.</p>
+                  <p>In conſideration of the premiſſes, and of the excellent gifts, and endowments wherewith it hath pleaſed God to enable the ſaid Colonell for other employments in the ſervice of this State, and in regard of my own experience and confidence I have of the ſaid Colonels Integrity, and conſtant affection to the common cauſe of Religion Lawes and Liberty, which he hath given full teſtimony of, in ſundry negotiations entruſted unto him by both Houſes of Parlament and eſpecially in that negotiation with the Kingdome of Scotland, <hi>Anno Dom:</hi> 1641. And in reſpect of his courage and valour ſhewed in divers ſer<g ref="char:EOLhyphen"/>vices, and in particuler in regard of the good teſtimony given to me by Sr. William Belfoor Leivtennant Gene<g ref="char:EOLhyphen"/>rall of the horſe in the behalfe of the valorous carriage of the ſaid Colonell in Kainton feild riding up to the ve<g ref="char:EOLhyphen"/>ry. Ordinance of the Enemy, with and neere the ſaid Sir William Belfoore, I have by vertue of an Ordinance of both Houſes of Parliament given and granted, and by theſe preſents I give and grant unto the ſaid Colonell a free and full pardon of all manner of offences, errours, and overſights committed in the ſaid ſurrender of the City and Caſtle of Briſtoll, diſcharging hereby the ſaid Colonell from the-execution of the capitall puniſhment, impriſonment, reſtraint, and likewiſe from all further impeachment, and proſecution concerning the ſaid ſur<g ref="char:EOLhyphen"/>render.</p>
+                  <closer>
+                     <dateline>ESSEX, Given under my hand and Seale, <date>the ſixt of <hi>Jan. 1643, in London.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:154611:11"/>
+                  <head>The Argumentative Principles of this Pardon.</head>
+                  <p>FIrſt that the proſecuters themſelves during the ſaid try all have declared that their meaning was not that the ſaid Collonel had delivered up the ſaid City by any premediate malice or intelligence with the enemy.</p>
+                  <p>
+                     <hi>This acquits him from all umbrages of Treachery, his Proſecutors (it ſeemes) declining any ſuch charge.</hi>
+                  </p>
+                  <p>2 That the ſaid Colonell hath been caſt by the ſaid Counſell of War, only according to the Letter and Arti<g ref="char:EOLhyphen"/>cle of the Lawes and Ordinances of war.</p>
+                  <p>
+                     <hi>This argues him only guilty of a diſproportion of the Ar<g ref="char:EOLhyphen"/>ticle and Letter of the Law, to that ultimate, and ſupream extremity, which the iuſtice of War exacts.</hi>
+                  </p>
+                  <p>3 In regard of the excellent gifts and endowments wherewith it hath pleaſed God to enable the ſaid Co<g ref="char:EOLhyphen"/>lonell.</p>
+                  <p>In regard of my own experience and confidence I have of the ſaid Colonels Integrity, and conſtant affection to the common cauſe of Religion, Laws, Liberty.</p>
+                  <p>Which he hath given full teſtimony of in ſundry ne<g ref="char:EOLhyphen"/>gotiations entruſted unto him by both Houſes of Par<g ref="char:EOLhyphen"/>liament.</p>
+                  <p>And eſpecially in that negotiation with the Kingdom of Scotland, <hi>An.</hi> 1641.</p>
+                  <p>
+                     <hi>Theſe are all ſeals, and confirmations, and honorable testi<g ref="char:EOLhyphen"/>monies enough without any varniſh in their plain and noble aſſeveration and atteſtatiou, from a perſon of ſuch eminent quality and truſt in this ſtate and Kingdom, to reeſtate his re<g ref="char:EOLhyphen"/>putation againe, and his honour in our opinions and iudge<g ref="char:EOLhyphen"/>ments.</hi>
+                  </p>
+                  <p>4 Eſpecially in that particular, in regard of the good
+<pb facs="tcp:154611:12"/>
+teſtimony given to me by Sir <hi>Wil. Balfoore,</hi> Lievtenant Generall of the Horſe in his behalfe the valorous cari<g ref="char:EOLhyphen"/>age of the ſaid Colonell in Keinton field, riding up to the very Ordnance of the Enemy with and neer the ſaid Sir <hi>William Balfoore.</hi>
+                  </p>
+                  <p>
+                     <hi>This diſcharges our thoughts from all preiudices from all miſtakes that ſome uniuſtly conceived concerning his roſolu<g ref="char:EOLhyphen"/>tion, he cannot be charged of cowardiſe, who charged ſo vali<g ref="char:EOLhyphen"/>antly, and in the company and ſight of ſo gallant a Comman<g ref="char:EOLhyphen"/>der as Sir</hi> Walliam Balfoore, <hi>whoſe deſerts in our publike cauſe hath raiſed him into an unqueſtionable teſtimony, and in diſputable reputation with us. But more of this anon.</hi>
+                  </p>
+                  <p>Having now given you a gener<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll and particular ac<g ref="char:EOLhyphen"/>count, and not concealed any thing which was Argu<g ref="char:EOLhyphen"/>mentative, &amp; powerfull upon my Judgement I ſhall now treat with ſome Objections, and fairly diſſolve thoſe, and I hope by that time, others will be as well ſatisfied, as my ſelf.</p>
+                  <p>Object. 1, <hi>Why did Collonel Fiennes endeavour ſo earneſt<g ref="char:EOLhyphen"/>ly the triall of himſelfe? why was he ſo buſie a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d active for a day of Audience, when he had made a ſufficient Apology to the houſe of Commons, of which he was a member, and the Houſe reſted content with that.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw<g ref="char:punc">▪</g>
+                     </hi> There were divers things printed which le<g ref="char:EOLhyphen"/>velled at his Integrity and Reputation, in the conduct of this buſineſſe, and the Malignants ſought by all meanes to foment the rumours; and increaſe the Calumnies, on purpoſe to make diviſions and ruptures amongſt us; and to draw us into ſidings and parties, as they well knew a proſecution of this nature would ſoon effect, Colonell <hi>Fiennes</hi> being one of thoſe intereſts and relatious, as they knew him to be, and without queſtion ſuch as theſe were branches and nerves of the late deſignes for diviſion
+<pb facs="tcp:154611:12"/>
+which we all know, and though ſome of the well affect<g ref="char:EOLhyphen"/>ed party might ſeeme to bear a ſhare in the proſecutions, yet I look upon them under a better notion, as thoſe that were unhappily put on by the<g ref="char:punc">▪</g> Artifice and underwork<g ref="char:EOLhyphen"/>ings of others, ayming (through miſtakes and prejudices too ſuddainly received) at a publick ſervice, and this er<g ref="char:EOLhyphen"/>roneous and miſguided activity, which (as is ſaid of zeale) had been egood in a good thing had ſo anticipa<g ref="char:EOLhyphen"/>ted and taken poſſeſſion of the Judgments of many, that the Colonell was put upon a neceſſity of cleering him<g ref="char:EOLhyphen"/>ſelf, and bringing himſelf to a triall of this nature.</p>
+                  <p>Obj. 2. <hi>But Col:</hi> Fiennes <hi>did give out, that he would make his Colours his winding ſheete, and that he would lay his bones there, and diſpute every inch of it.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> It is one thing what is ſpoken reſolvedly, and with a ſerious and perticular intendment, another thing what is ſpoken, for publik ends, for animating and en<g ref="char:EOLhyphen"/>couraging Souldiers, for Souldiers and common people looks into their Commanders face, as they look into their Almanack for weather<g ref="char:punc">▪</g> and there they hope to fore<g ref="char:EOLhyphen"/>ſee good or bad events and ſucceſſe, and he is not a wiſe Commander that hath clouds and ill weather in his countenance, and at that time, this Colonell did the like, for as it was depoſed at the Counſell of War, the Gen<g ref="char:EOLhyphen"/>tlemen of the County, and amongſt them ſome of the Deputy Lievtenants deſerted him, giving the City for loſt. Yet in private where hee might be free with ſuch a dangerous Conſequence of generall diſcouragement<g ref="char:punc">▪</g> he declared his Judgment, that there was no hope of defen<g ref="char:EOLhyphen"/>ding it, againſt that force after Sir <hi>Wil. Waller</hi> had loſt his whole Army, and therein the ſtrength of his Garriſon, &amp; this was the opinion of all the Gentlemen who left the
+<pb facs="tcp:154611:13"/>
+Town after Sir <hi>Wil. Wallers</hi> defeat, and their very depar<g ref="char:EOLhyphen"/>ture at that juncture of time was a ſtrong Argument.</p>
+                  <p>Object. 3. <hi>But there are rumours ſpread abroad as if there were ſome cowardiſe in the act of ſurrendring.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> I have ſufficiently cleered this I hope by two Honourable teſtimonies of his Excellency, and Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Balfoor,</hi> to theſe there were many other unqueſti<g ref="char:EOLhyphen"/>onable witneſſes, and ſome who were brought then by the Proſecutors themſelves, and <hi>Croſse</hi> examined, that during the whole ſiege he carried himſelf vigilantly, carefully, and induſtriouſly and expreſſed ſuch reſolution and courage, that he hazarded his own Perſon, day and night, in the places of greateſt danger, though I could here not onely remember theſe particulars, but that of <hi>Keinton</hi> field, where he charged with Sir <hi>William Bal<g ref="char:EOLhyphen"/>foor,</hi> and that Regiment they were in, broke two Regi<g ref="char:EOLhyphen"/>ments of the Kings foot, and he was one of the next to Sir <hi>William</hi> when they charged up to the very Ordnance of the enemy, and killed the Canoneers as they lay un<g ref="char:EOLhyphen"/>der their carriages, and to this I could remember that at <hi>Worceſter,</hi> when the forces being routed, he and his Bro<g ref="char:EOLhyphen"/>ther were the laſt Officers of Horſe that came off the field; and he with Colonell <hi>Brown,</hi> Colonell of the Dragoons, made good the Bridge with ſome Dragoons, where they kept them from being all cut off.</p>
+                  <p>Obje. 4. <hi>But it is reported that he wanted neither men nor Ammunition, to defend it againſt all the enemies power for three moneths together.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> We muſt know that it was proved at the Councell of Warre, that their was but fiftie Barrells of Powder left, and they had ſpent fiftie in two dayes fight before; at <hi>Plimmouth</hi> they ſpent fortie Barrells in ſeven
+<pb facs="tcp:154611:13"/>
+hours fight, ſo as this proportion was not able to hold out for ſuch a time; and this is not fair to give ſuch a large meaſure of time, and ſuch ſcant meaſure of Am<g ref="char:EOLhyphen"/>munition: We may ſee how diſproportionable reports may be, when they are juſtly ſurveyed, and for men, there was not quarter enough for defending the Line of four or five miles in length, and no reſerve at all, they muſt fight, ſtand, watch, continually without relief. Now how impoſſible it is to keep men in continuall dutie, and with conſtant expence of Powder, for three moneths together, out of ſo inconſiderable a ſtock, both of men, and Powder, they muſt judge who have been ſo good at multiplying and ſubſtracting in reports of this nature; and are onely able to ſupply the defects of their own ſtories.</p>
+                  <p>Obje 5. <hi>But it is further reported that at the entery into the Lyne, there were but 150 men that entred, and they ſtaid there a long time before they were ſeconded, and gave them<g ref="char:EOLhyphen"/>ſelves all for deadmen, and might eaſily have bin beaten out.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> It was depoſed that they were two or 300 that entered, none ſpake of leſſe then two hundred, be<g ref="char:EOLhyphen"/>ing <hi>Waſhingtons</hi> whole Regiment, and for giving them<g ref="char:EOLhyphen"/>ſelves for dead men, it was ſo farre from that, as when the horſe that were placed where they entred, played the Jades, &amp; would not charge (for which Colonel <hi>Fiennes</hi> ac<g ref="char:EOLhyphen"/>cuſed them) before Captain <hi>Nevill</hi> could come thither from the place where he guarded with his horſe, there were ſo many entred, and they had ſo much life, as that they made his horſe (though he did his part like a valiant man) fly to the Town Gate, and four Companies of foot came off from the Line, fearing the enemy would come upon their back and cut them of before they could recover the Town, ſome of them for haſt running over
+<pb facs="tcp:154611:14"/>
+the Water at the Key, beſides the Gate of the Town. And this was the firſt object that Colonell <hi>Fiennes</hi> met withall at the Gate, whereunto he haſted upon the firſt advertiſement of their entry; Captain <hi>Nevill</hi> ſeeing their horſe Regiments advanced to the breach before he was beaten of.</p>
+                  <p>Object. 6. <hi>It is reported that Colonell</hi> Fienues <hi>out of ambition diſplaced Colonell</hi> Eſſex, <hi>and ſent him up priſoner upon a pretended ſuſpition, onely to thruſt himſelf into the place of Governour, and yet denyed that Colonell</hi> Eſſex <hi>was Governour, or that himſelf was Governour.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> Thoſe reports are purpoſely ſpread abroad to the ſame end that all the reſt, <hi>Fortiter calumniare aliquid haerebit,</hi> ſome will be incenſed as Colonell <hi>Eſſex</hi> and his friends, and ſome will hereby be deceived to the pre<g ref="char:EOLhyphen"/>judice of Colonell <hi>Fiennes,</hi> who know not the truth herein, and then the end aymed at is obtained. The truth was thus, Their was a Jealouſy caſt upon Colo<g ref="char:EOLhyphen"/>nell <hi>Eſſex</hi> at that time for holding correſpondencie with Prince <hi>Rupert;</hi> but Colonell <hi>Fiennes</hi> in his Letters did expreſſe, that he hoped he might be cleer of any ſuch intention, although (having received an Order from my Lord Generall to ſend him up to him) he ſaw cauſe e<g ref="char:EOLhyphen"/>nough not to dare to diſobey that Order, finding how things were carried in the Town, to the diſcontent of all the well affected partie of the Citie, inſomuch, that they were leaving the Citie before he came thither: And beſides this, the fears and jealouſies were ſuch, and the complaints both from <hi>Briſtol,</hi> and here in Town ſo many, that it is well known before ever Colonell <hi>Fiennes</hi> was thought of to be ſent down thither, it was reſolved by my Lord Generall, that Colonell<g ref="char:punc">▪</g> 
+                     <hi>Eſſex</hi> ſhould be ſent for away ſo ſoon as it might be done ſafelie, and Maſter
+<pb facs="tcp:154611:14"/>
+                     <hi>John Sedgwick</hi> the Miniſter now dead, went to <hi>Windſor</hi> to my Lord Generall (as is known to ſome who can witneſſe it) to be imployed down to <hi>Bristol</hi> upon that errand, and therefore Colonell <hi>Eſſex</hi> hath no cauſe to be ſo ſtirred up againſt Colonell <hi>Fiennes,</hi> for obeying my Lord Generall in that command, which was reſolved to be executed before he was thought of for it; and it is alſo true, that Colonell <hi>Eſſex</hi> had no Commiſſion to be Go<g ref="char:EOLhyphen"/>vernour, nor Colonell <hi>Fiennes,</hi> for the greateſt part of the time; and in that time, he ſaid, he was not Gover<g ref="char:EOLhyphen"/>nour, no more then Colonell <hi>Eſſex,</hi> neither had he a Commiſſion untill two of Colonell <hi>Pophams</hi> Captains drew up their Companies againſt him in the ſtreets, and told him they would not obey him, becauſe he had not a Commiſſion. And after that mutiny a Commiſſion was ſent him and not before; and he did acknowledge, that after that time, he had a Commiſſion. Theſe things are urged and made uſe of withall ſiniſter conſtruction and amplification, onely to caſt <hi>odium</hi> upon Colonell <hi>Fiennes</hi> by deceiving others in not relating the things truely, as they were ſpoken, the times obſerved and diſtinguiſhed.</p>
+                  <p>Object. 7. <hi>But is it not any diminution to the Parlia<g ref="char:EOLhyphen"/>ment, or Councell of Warre, or Lord Generall, that it is re<g ref="char:EOLhyphen"/>ported how he was cleered from the Attainder of Treachery, or Cowardize, and pardoned.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> No; For firſt the Councell of War did not go at all upon the Articles of Treachery, or Cowardize, ſeeing them ſo farre from being proved, that they were diſproved, and the Colonell was acquitted from the im<g ref="char:EOLhyphen"/>putation, and they proceeded onely upon the Letter of the Article of Warre, as is apparant by the Sentence, and Pardon, for not holding it to the utmoſt extremity which could not have been done, without burning it, as was
+<pb facs="tcp:154611:15"/>
+depoſed by a Colonell of Noble qualitie, and could not have been kept longer then two dayes.</p>
+                  <p>And for he L. General, it were a queſtionable preſump<g ref="char:EOLhyphen"/>tion to ſay that he ſhould have power to hang and not to pardon<g ref="char:punc">▪</g> that he could onely kill, and not ſave, and ſo take of the <hi>Apicem</hi> or ſupremeſt of his power, the flower and nobleſt prerogative of his Authoritie, which Au<g ref="char:EOLhyphen"/>thoritie he ſufficiently and cleerly draws forth from his Commiſſion given him by Parliament; and it is the honour of his Power to produce an extraordinarie act in ſuch a pretious extremitie, as it is the glory of a diviner power to act a miracle, when no leſſe will ſerve. And having now weighed the proceedings of this Colonell at the Beam of the Article of Warre, and then pardoning, it is no other then a ſubordinate redemption, and a ſalva<g ref="char:EOLhyphen"/>tion of a lower form, and an act which the beſt (I ſup<g ref="char:EOLhyphen"/>poſe) do not grieve at. And for the honourable Houſe of Commons, they never did refer the impeachment put in by the proſecutors to my Lord Generall as an accuſa<g ref="char:EOLhyphen"/>tion of theirs, or their approving againſt Colonell <hi>Fiennes,</hi> but for his Vindication againſt a ſlander upon his deſire, which appeared in this, that that honourable Synod was moved at the impeachment put in, and refer<g ref="char:EOLhyphen"/>red it to be conſidered of by a Committee, whether it were not a breach of priviledge, I remember now the caſe of the Atturney <hi>Herbert,</hi> bringing in an impeach<g ref="char:EOLhyphen"/>ment againſt the five Members which was taken as a deep offence, for we muſt not think that the doors of that high Court ſtand open to any extrajudicall or Forraign proceeding, but onely to a Parliamentary, to their own naturall and proper courſes, and wayes of tryall.</p>
+                  <p>Obj. 8. <hi>But is it fit the execution of this ſentence ſhould be ſo ſlightly paſſed over, will it not be an occaſion of tradu<g ref="char:EOLhyphen"/>cing a ſignall preſident, and dangerous in theſe perillous times.</hi>
+                  </p>
+                  <p>
+                     <pb facs="tcp:154611:15"/>
+                     <hi>Anſw.</hi> No, for extraordinaries are no preſidents nor rules to any, and the pardon is not beyond Col. <hi>Fiennes;</hi> and further, we muſt diſtinguiſh and weigh offences, and not proſecute, as if there were no difference, nor degrees, nor aggravations, nor diminutions in crimes. Firſt, it appears, that this Gentleman could onely be touched by the Letter of the Article of War, for not holding it to extremitie, and even for that was acquitted too, by the moſt ancient and experienced Souldiers, he pleading, that he thought it fitter to ſave the Citie of the Kingdom, then to burn it, which he muſt have done, whereas the Parliament might take it again, if ſo preſerved; and here we may remember ſomething for illuſtration, Let us look back at <hi>Exceter?</hi> Were the works or the principall Rampier taken, as at <hi>Briſtoll;</hi> was it beſieged by 12000 Souldiers; No<g ref="char:punc">▪</g> Onely by a Sherif and a <hi>poſſe comitatus,</hi> for a long time, yet one of the ſtrongeſt Cities in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as the <hi>Devonſhire</hi> Gentlemen ſay; nay further, was it reduced to that extremitie in the Article; was the Citie burnt to keep a ſtrong work, Fort, or place in it; what were the conditions upon which it was ſurrendred.</p>
+                  <p>Let us look at <hi>Lincoln,</hi> was the principall Rampier there entred: Was the Walls of the Citie battered<g ref="char:punc">▪</g> or the Walls of the Cloſe a much ſtronger retreat then the old rotten Caſtle of <hi>Briſtoll,</hi> was not that Citie with the Ordnance, Ammunition, Victuall, and priſoners left, when no enemy was near it by twelve Miles, and the ene<g ref="char:EOLhyphen"/>my entered not into it till two dayes after<g ref="char:punc">▪</g> Here was no Citie reduced to utmoſt extremitie, no Citie burnt to keep the Cloſe, and now we ſee happily reduced into the Parliaments hands again, and yet no impeachment, nor ſentence, nor any ſignall preſident traduced.</p>
+                  <p>So for <hi>Gainsborrough,</hi> were either the works taken, or forced, and yet delivered upon compoſition, and the
+<pb facs="tcp:154611:16"/>
+Parliament now repoſeſſed of it, and yet no cowardice in theſe, nor treachery; it ſeems all theſe preſidents were never thought ſignall, the Gentlemen never queſtioned, but ſtill imployed, nor do I name theſe in any obliquitie, but to ſhew that we had Cities delivered and ſurrendred into the enemies hand; and yet no ſuch notiſe, no ſuch complaints, no ſuch aggravations, no ſuch proſecuti<g ref="char:EOLhyphen"/>ons, no ſuch markes of treachery or cowardize upon them. And though I am loath to go for Juſtice to <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and to ſeek preſidents in the enemies Tents; yet the Juſtice of Warre is there too.</p>
+                  <p>Was not Hereford as well ptovided within of men to defend, as the beſiegers to aſſault without, yet delivered without conditions into mercy, the Commanders never queſtioned, ſtill uſed, incouraged, employed.</p>
+                  <p>Was not Reading (though Garriſon'd with 4500 foot and 500 horſe) the Army without not ſo many as before Briſtoll ſuccours at hand, yet ſurrendered.</p>
+                  <p>The Commander <hi>Fielding</hi> a ſouldier (condeuined in<g ref="char:EOLhyphen"/>deed) (onely to boy up the reputation of the other ſide, leſthall ſhould disband) yet not executed, and ſo far from being laid aſide, that he is ſtill there and em<g ref="char:EOLhyphen"/>ployed <hi>Briſtoll</hi> not ſo well to be defended with double the number of men, yet had but ſeventeen hundred foot, and 300 horſe and the moſt part of them raw men, raked up in the ſtreets.</p>
+                  <p>To this we may add Malmesbury, delivered up to Sir <hi>Wil, Waller,</hi> who teſtified of it in his Letter, that is was the ſtrongeſt inland piece in <hi>England,</hi> where there was no want of men to defend it and Sir <hi>Wil. Waller</hi> ready ther<g ref="char:EOLhyphen"/>upon to leave it, he having not ſo many men without it to aſſail it, then there were within it, yet <hi>Lunsford</hi> a good Souldier delivered it up without conditions to mercy, who was afterward employed in command, not laid a<g ref="char:EOLhyphen"/>ſide<g ref="char:punc">▪</g>
+                     <pb facs="tcp:154611:16"/>
+but commanded at <hi>Briſtoll,</hi> where he was ſlain.</p>
+                  <p>The like at <hi>Higham</hi> Houſe, more within it, then aſſai<g ref="char:EOLhyphen"/>led it, yet delivered up to mercie, none laid aſide for it they know how to make better uſe of their Cards, then to fling them away for one loſt game.</p>
+                  <p>In a word, we ſee Cities and Townes delivered up and ſurrendred upon compoſition, and yet fall ſhort of the juſtice of the Article of War too, and of the utmoſt ex<g ref="char:EOLhyphen"/>tremitie, and this we may read both in our own practice, and our enemies, and yet no ſtain of Cowardize or Trea<g ref="char:EOLhyphen"/>chery, no traducing of any ſignall preſident, not preſſed, nor proſecuted, nor aggravated with the circumſtances of perillous times, the Gentlemen and Commanders<g ref="char:punc">▪</g> (as divers of them well deſerve) honoured, employed, pre<g ref="char:EOLhyphen"/>ferred, and muſt this Colonell ſuffer under the ſentence of juſtice irrecoverably, irrepairbly? is the judgement of our Courts like that of the <hi>Medes</hi> and <hi>Perſians</hi> ir<g ref="char:EOLhyphen"/>repealable, muſt all former deſerts and eminencies, a con<g ref="char:EOLhyphen"/>juncture of ſo many vertues be all intombed in a bad ſuc<g ref="char:EOLhyphen"/>ceſſe, ſhall errors be writ in Marble, and deſerts in ſand<g ref="char:punc">▪</g> ſhall ſo noble a Family that hath laid ſuch ingagement upon the publick, that hath boyed up this State and Re<g ref="char:EOLhyphen"/>ligion in the times when their were ſuch overflowings of Prerogative and poperie be now laid aſide? ſhall wee think the right ſtating of an offence to be a traducing of any ſignall preſident? or an act of mercie and pardon to be a ſleight paſſing over a crime, when as juſtice hath had a free courſe, in a free triall: and a pardon granted, with a cleer Declaration of the reaſons and cauſes, I remember <hi>Jonah,</hi> when he impeached and pronounced ſentence on the <hi>Ninivites,</hi> and God afterwards pardoned them, <hi>Ionah</hi> was very angry he thought (it ſeems) if he came off ſo cleer from the ſentence, they ſhould not come off ſo cleer in the reputation of a Prophet, but I have done, and wiſh onely that theſe few and plaine Expreſſions may be
+<pb facs="tcp:154611:17"/>
+read and received with the ſame candor and ingenuity they are writ, for I hope I have fairly publiſhed, and not painted the truth.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Certain Queries very conſiderable, and of p<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ck concern<g ref="char:EOLhyphen"/>ment touching the proſecution and proſecutors Col. <hi>Nathaniel Fiennes.</hi>
+               </head>
+               <p n="1">1 WHether the proſecutors of Colonel <hi>Nathaniel Fiennes</hi> be wittingly or ignorantly put on by ſome Malignant and Jeſuiticall ſpirits to foment Diviſi<g ref="char:EOLhyphen"/>ons by proſecuting one, of his intereſts and relations as affairs ſtand now, and ſo to ſtir up parties and ſidings (if poſſible) in this juncture of time.</p>
+               <p n="2">2 Whether the proſecuting of his Excellencies pardon, with ſuch ſleightings and reproaches from the proſecu<g ref="char:EOLhyphen"/>tors, both in their late Petition and Pamphlet, be not of dangerous conſequence to the publick, and the caſting a bone betwixt the Parliament and his Excellencie, and ſo to promote Diviſions, whether ought this Deſigne to be enquired into.</p>
+               <p n="3">3 Whether the proſecutors doe not make uſe onely of the honourable name of the Parliament, and Lord Ge<g ref="char:EOLhyphen"/>nerall, and the Counſell of Warre to ſave and ſhadow their own names, and reputations the better, by weaving their own particulars into thoſe univerſall notions, and publick ingagements, to make their own p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe better.</p>
+               <p n="4">4 Whether the proſecutors owne intereſt and ingage<g ref="char:EOLhyphen"/>ments and reputation, be not the chief motive of this their proſecution, becauſe they affirme in their late peti<g ref="char:EOLhyphen"/>tion, that his owne private ſummons and provocations onely ingaged them to the triall, &amp; they were involun<g ref="char:EOLhyphen"/>tarily engaged and why have they let ſo many other pla<g ref="char:EOLhyphen"/>ces of publick concernment<g ref="char:punc">▪</g> which have been ſurrendred paſſe unqueſtioned, and the Governours and Command<g ref="char:EOLhyphen"/>ers thereof who are yet imployed and intruſted for the publick, and why doe they ever and anon intrude a Re<g ref="char:EOLhyphen"/>membrance
+<pb facs="tcp:154611:17"/>
+of themſelves and their deſerts, placing their own names under the notion of petitioners before either the Parliament, or Lord Generall, or Councell of War, as appears in the clauſes of their laſt Petition.</p>
+               <p n="5">5 Whether it be not an inſufferable inſolencie for any man to tax the houſe of Peers, for what they have done, and to call them to accompt for leaving Maſter <hi>Prynne</hi> out of the bill for Auditors, and queſtioning any of them for having a Negative or affirmative Vote in that Houſe as is done in the <hi>Check,</hi> and hath he not in this and other things lately violated the Priviledges of Parliament as dangeruſly, and in as high a degree as hath been done by any this Parliament.</p>
+               <p n="6">6 <hi>Whether there is not a vaſt difference betwixt the</hi> Straf<g ref="char:EOLhyphen"/>fords <hi>Caſe</hi> and <hi>Col. Fiennes, Strafford, being attainted and executed for overthrowing the Lawes of our Kingdome for introducing Popery into our Religion, for ſetting up Iniuſtice, Tyranny and oppreſsion for endevouring to engage two King<g ref="char:EOLhyphen"/>domes in a bloudy war, and all this on purpoſe, with all poſsi<g ref="char:EOLhyphen"/>ble Artifice and Deſigne, and this Col.</hi> Fiennes <hi>who had ever had the reputation of godlineſſe, of ſerving the State very happily and advantageouſly before in ſeverall publick employ<g ref="char:EOLhyphen"/>ments, till this unfortunate loſſe of Bristoll, though proved to be only a diſproportion to tho Article of War, a misfortune by conſequence, not at all by any deſigne or complot with the e<g ref="char:EOLhyphen"/>nemy.</hi>
+               </p>
+               <p n="7">7 Whether the pardoning of this Collonel can be of ſuch danger to the publike as the proſecutors would make us believe, ſeeing it is an extraordinary act, and grounded upon extraordinary reaſons, and eminent deſerts, as his Excellencie makes appear, and ſo none can promiſe or aſſure themſelves of any ſuch indulgence or pardon which is a meere arbitrary act, and ſo cannot en<g ref="char:EOLhyphen"/>courage
+<pb facs="tcp:154611:18"/>
+themſelves to any treacherous act upon any in<g ref="char:EOLhyphen"/>fallible ground, nay rather the contrary, may they not rather ſuppoſe that the indulgencie or mercie is now paſ<g ref="char:EOLhyphen"/>ſed away upon extraordinary grounds, and that any ſuch expectation will be vain, and too conſpicuouſly dange<g ref="char:EOLhyphen"/>rous, and ſo nothing but execution to bee expected and acted, like <hi>Eſay</hi> who coming too late, when the bleſſing was paſſed upon <hi>Jacob,</hi> could not obtain it again, though he ſought it carefully with teares.</p>
+               <p n="8">8 Whether the Col: <hi>Fiennes</hi> ſuffering to expiate the ſufferings of others, bee a juſt ground, ſeeing that upon ſuch a principle, every Governour or Commander in chiefe may be demanded upon every unfortunate action that hath any ſad conſequence attending it, and whither hath not the Collonel ſuffered aboundantly, both in his credit by miſ-reports and Pamphlets, and by the unfor<g ref="char:EOLhyphen"/>tunate ſurrender it ſelfe, and in his life by hazarding both his perſon there, and ſince to a trvall and condemnation.</p>
+               <p n="9">9 Whether one of the Proſecutors did not penne the <hi>Check</hi> himſelfe, becauſe there is ſuch larding his own de<g ref="char:EOLhyphen"/>ſerts, and whether did he not penne this very clauſe: Mr. <hi>Willam Prinne</hi> appointed an Auditor for the grand Con<g ref="char:EOLhyphen"/>ge, deſerted accounts of the Kingdome chaſed out, and whether is it not printed at the Proſecutors Preſſe.</p>
+               <p n="10">10 Whether one may not ſuffer martyrdome, and endure publike ſufferings, and pillowrings, and further, give their bodies to be burned, &amp; yet want charity, whe<g ref="char:EOLhyphen"/>ther is not the holy Scripture plain for this or no? and whither would not this be taken into ſad and ſerious con<g ref="char:EOLhyphen"/>ſideration by the Proſecutors?</p>
+               <p n="11">11 Whether is it ſuch groſſe flattery and prevarica<g ref="char:EOLhyphen"/>tion in <hi>Britannicus,</hi> modeſtly<g ref="char:punc">▪</g> and in three or foure lines, to name the vertue of a Gentleman, wel known, and repu<g ref="char:EOLhyphen"/>ted before, though now proſecuted beyond mercie, to
+<pb facs="tcp:154611:18"/>
+blood and death, whither is not rather a good Chriſtian advice to the proſecutors an excellent morall, a godly admonition.</p>
+               <p n="12">12 Whether is it not a piece of great diſſervice to this Kingdome, and a great ſatisfaction to all Malignants, and a great Courteſie and encouragement to the vain Pamphlet <hi>Aulicus,</hi> to caſt any ſuch checks and aſperſions upon <hi>Britannicus,</hi> and whither hath not the author of it of late been in the Country at Oxford with <hi>Aulicus</hi> or or no, or received ſome intimations from Court, or bribe if he be a Lawyer, to write againſt <hi>Britannicus</hi> whom all the well affected judge to have writ moſt im<g ref="char:EOLhyphen"/>partially of the publike affairs, and to have undeceived and diſabuſed the people, as much as any that hath come forth, by being ſerious with the ſadder judgements, and more pleaſant with the ſanguine, taking downe the tra<g ref="char:EOLhyphen"/>verſe worke of the moderne machaivelliſme, and whither doth he not deſerve a good reward, and encouragement from the State for this ſervice?</p>
+               <p n="13">13 The laſt Querie is this, Whether it will pleaſe the Malignants or well affected party beſt, to ſee us pro<g ref="char:EOLhyphen"/>ſecute any of our own party, &amp; pulling of the bloſſomes from our own trees, which have flouriſhed ſo long in this State and Church, onely becauſe ſome of the fruit hath been caſually and unfortunately blown off, and be<g ref="char:EOLhyphen"/>cauſe there is not that fruit at all times of the year which we expect.</p>
+               <p>I will conclude with Mr. <hi>Prinues</hi> own words ſpoken at the Councell of War before many witneſſes of unqueſti<g ref="char:EOLhyphen"/>onable or edit. They were theſe.</p>
+               <p>My meaning is not in ſaying Briſtol was traiterouſly and cowardly delivered into the enemies hands, that Col: <hi>Fiennes</hi> is a Traitor or hath done this out of any preme<g ref="char:EOLhyphen"/>ditate malice, or intelligence with the enemie, or that he
+<pb facs="tcp:154611:19"/>
+is a coward or hath done any cowardly act, either hereto<g ref="char:EOLhyphen"/>fore in other places, or during this Siege, but onely in this one individuall act of ſurrendring the Towne before it was reduced to utmoſt extremity. But theſe words traiterouſly and cowardly muſt be uſed in the language of the Law in an impeachment, as felony muſt be uſed in an indictment, and therefore it is that I uſe them. Theſe words he uſed, or fully to this effect, as will be depoſed by theſe Gentlemen.</p>
+               <list>
+                  <item>M. <hi>Iames Finnes,</hi>
+                  </item>
+                  <item>M. <hi>Thomas Earle,</hi>
+                  </item>
+                  <item>
+                     <hi>two Members of the Houſe of commons,</hi>
+                  </item>
+                  <item>M. <hi>Iohn Fiennes,</hi>
+                  </item>
+                  <item>
+                     <hi>Cap. Tho. Temple,</hi>
+                  </item>
+                  <item>
+                     <hi>Lievtenant Edward Scotton,</hi>
+                  </item>
+                  <item>
+                     <hi>M. Hen. Pitt,</hi>
+                  </item>
+                  <item>M: <hi>Samuel Love of Briſtoll,</hi>
+                  </item>
+               </list>
+               <p>Let all the world judge whether in his Pamphlet which hee ſpreads abroad (onely to ſtir up the people) he would have men thus underſtand him, when he ſo often exclaims of Tron, and the moſt traiterous and coward<g ref="char:EOLhyphen"/>ly ſurrender Briſtol.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
